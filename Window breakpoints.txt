@@ -1,0 +1,14 @@
+https://brain.com.ua/ukr/
+1357 px
+1012 px
+
+book ye
+1800 px
+1700 px
+1600 px
+1504 px
+1200 px
+991 px    на елементі  <div class="header__top-nav header__top-nav-margin">  немає відступів
+768 px
+598 px
+530 px
