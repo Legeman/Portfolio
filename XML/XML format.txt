@@ -1,0 +1,28 @@
+<EnglishPremierLeagueTeams>
+	<Teams>
+		<team id = '1'>
+			<name>Arsenal</name>
+			<city>London</city>
+		</team>
+	</Teams>
+	<team id = '2'>
+		<name>Chelsea</name>
+		<city>London</city>
+	</team>
+	<team id = '3'>
+		<name>West Ham</name>
+		<city>London</city>
+	</team>
+	<Player>
+		<english type = 'Manchester born'/>
+		<tall/>
+		<dark_hair/>
+		<name>John</name>
+		<spanish type = 'Madrid born'/>
+		<short/>
+		<blond_hair/>
+		<name>Juan</name>
+	</Player>
+</EnglishPremierLeagueTeams>    
+            
+        
